@@ -15,16 +15,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-green?style=for-the-badge)
 
-## Структура репозитория
-├── last_paid_click.sql # SQL-запрос: определение последнего платного клика
-├── aggregate_last_paid_click.sql # Агрегация данных по платным кликам
-├── dashboard.sql # Основной SQL-запрос для дашборда
-├── last_paid_click.csv # Выгрузка результата (сырые данные)
-├── aggregate_last_paid_click.csv # Выгрузка агрегированных данных
-└── presentation.pdf # Итоговая презентация с выводами
-
-text
-
 ## Ход работы
 
 1. **Выгрузка сырых данных** — получение логов о взаимодействии пользователей
